@@ -10,3 +10,12 @@
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.922Z"}
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.998Z"}
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:17.409Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":746,"timestamp":"2024-09-04T13:01:30.686Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/tinch/OneDrive/Desktop/wololok/colecion-juego-de-tronos-parte-1-martinmoro504","timestamp":"2024-09-04T13:01:30.706Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":332,"timestamp":"2024-09-04T13:01:31.056Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":412,"timestamp":"2024-09-04T13:01:31.486Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":554,"timestamp":"2024-09-04T13:01:32.042Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":344,"timestamp":"2024-09-04T13:01:32.387Z"}
+{"level":"info","message":"⌛ Validating test.wtest","timeElapsed":398,"timestamp":"2024-09-04T13:01:32.801Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":474,"timestamp":"2024-09-04T13:01:33.283Z"}
+{"level":"info","message":"⌛ Validating test.wtest","timeElapsed":620,"timestamp":"2024-09-04T13:01:33.905Z"}
